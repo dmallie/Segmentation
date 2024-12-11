@@ -1,0 +1,6 @@
+Average Dice Loss: 0.7727124183006535
+Average IoU Loss: 0.8500522875816993 
+Average Area Ratio: 41.36058815164504
+Average Distance Between the Centroids: 32.01196405228758 
+Average Similarity in Pixel Wise Comparison: 47.46980392156862 
+###########################################
